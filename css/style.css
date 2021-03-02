@@ -56,12 +56,12 @@ html, body {
     }
 }
 
-.kneeya {
+.roger {
     padding-top: 7rem;
 }
 
 @media(max-width: 768px) {
-    .kneeya {
+    .roger {
         padding-top: 0rem
     }
 }
