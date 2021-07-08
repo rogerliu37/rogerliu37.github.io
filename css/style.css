@@ -41,9 +41,10 @@ html, body {
     }
 
 .me img{
-   height: 425.375px;
-   width: 217.25px;
+   height: 336px;
+   width: 252px;
    margin-left: 9rem;
+   border-radius: 30px;
    /* -webkit-filter: saturate(50%) opacity(0.95); 
    filter: saturate(50%) opacity(0.95); */
 }
